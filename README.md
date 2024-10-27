@@ -1,6 +1,6 @@
 # Análise explorátoria sobre o características físicas em pinguins.
 
-![Pinguins do Arquipélago de Palmer] (https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png)
+![Pinguins do Arquipélago de Palmer](https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png)
 
 O projeto é uma análise exploratória e comparativa dos bicos e nadadeiras de três espécies de pinguins. Os dados foram coletados no Arquipélago de Palmer na Antártica. 
 
