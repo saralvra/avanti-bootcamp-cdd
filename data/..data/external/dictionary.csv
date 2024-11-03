@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+species,"Nome das três espécies dos pinguins do projeto (Adelia, Barbicha, Gentoo)",qualitativa,nominal
+island,Nomes das ilhas da antartica onde foram encontrados os pinguins,qualitativa,nominal
+bill_lenght_mm,Tamanho (em milimetro) do bico dos pinguins,quantitativa,discreta
+bill_deph_mm,Profundidade (em milimetro) dos bicos dos pinguins,quantitativa,discreta
+fliper_lenght_mm,Comprimento(em milimetro) das nadadeiras dos pinguins,quantitativa,discreta
+body_mass_g,Peso (em gramas) dos pinguins, quantitativa,contínua
+sex,Sexo dos pinguins,qualitativa,nominal
