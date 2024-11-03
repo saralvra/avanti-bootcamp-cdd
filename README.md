@@ -1,4 +1,4 @@
-# Análise explorátoria sobre o características físicas em pinguins.
+# Análise explorátoria sobre características físicas em pinguins.
 
 ![Pinguins do Arquipélago de Palmer](https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png)
 
